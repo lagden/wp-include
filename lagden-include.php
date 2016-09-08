@@ -3,7 +3,7 @@
 Plugin Name: Lagden Include
 Plugin URI:  http://lagden.in
 Description: Short code to inject content into page
-Version:     1.0
+Version:     1.0.0
 Author:      Thiago Lagden
 Author URI:  http://lagden.in
 License:     MIT
