@@ -22,10 +22,10 @@ awaiting approval from https://wordpress.org
 [lagden-in src="http://lagden.in" /]
 ```
 
-**Warning**
+**Warning!**
 
-The plugin uses `ABSPATH` for local files
-e.g: `includes-html/contato.html -> /some_path/your_wordpress/includes-html/contato.html`
+The plugin uses `ABSPATH` for local files  
+**e.g.** `includes-html/contato.html -> /some_path/your_wordpress/includes-html/contato.html`
 
 
 ## License
