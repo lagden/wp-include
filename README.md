@@ -23,7 +23,7 @@ awaiting approval from https://wordpress.org
 
 **Warning!**
 
-The plugin uses `ABSPATH` for local files  
+The plugin uses `ABSPATH`  
 **e.g.** `includes-html/contato.html -> /some_path/your_wordpress/includes-html/contato.html`
 
 
