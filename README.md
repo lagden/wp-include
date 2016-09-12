@@ -1,6 +1,6 @@
 # Include
 
-Short code to inject content into page
+Short code to inject **html** or **text** content into page
 
 
 ## Install
@@ -17,14 +17,21 @@ awaiting approval from https://wordpress.org
 
 ## Usage
 
+Only accept `text/plain` or `text/html`
+
 ```
 [lagden-in src="includes-html/contato.html" /]
 ```
 
-**Warning!**
+**Warning**
 
-The plugin uses `ABSPATH`  
-**e.g.** `includes-html/contato.html -> /some_path/your_wordpress/includes-html/contato.html`
+The plugin uses `ABSPATH`
+
+**e.g.**
+
+```
+includes-html/contato.html -> /some_path/your_wordpress/includes-html/contato.html
+```
 
 
 ## License
