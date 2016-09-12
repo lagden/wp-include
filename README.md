@@ -19,7 +19,6 @@ awaiting approval from https://wordpress.org
 
 ```
 [lagden-in src="includes-html/contato.html" /]
-[lagden-in src="http://lagden.in" /]
 ```
 
 **Warning!**
