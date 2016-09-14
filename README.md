@@ -19,10 +19,7 @@ In the text editor, write this:
 
 **Warning**
 
-The plugin uses `ABSPATH`  
-Only accept `text/plain` or `text/html`
-
-**e.g.**
+The plugin uses `ABSPATH` and accept only `text/plain` or `text/html`
 
 ```
 includes-html/contato.html -> /some_path/your_wordpress/includes-html/contato.html
