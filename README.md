@@ -1,23 +1,17 @@
-# Include
+# lagden-in
 
-Short code to inject **html** or **text** content into page
+Short code to include **html** or **text** content into page
 
 
-## Install
+## Installation
 
-### Easy way
-
-awaiting approval from https://wordpress.org
-
-### Hard way
-
-- Copy the `lagden-include.php` to `wp-content/plugins/lagden-include`
-- Go to admin panel and activate the plugin
+1. Upload the plugin files to the `/wp-content/plugins/lagden-include` directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress
 
 
 ## Usage
 
-Only accept `text/plain` or `text/html`
+In the text editor, write this:
 
 ```
 [lagden-in src="includes-html/contato.html" /]
@@ -25,7 +19,8 @@ Only accept `text/plain` or `text/html`
 
 **Warning**
 
-The plugin uses `ABSPATH`
+The plugin uses `ABSPATH`  
+Only accept `text/plain` or `text/html`
 
 **e.g.**
 
